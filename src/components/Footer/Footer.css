@@ -1,0 +1,15 @@
+footer{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer div{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    height: 8.4vh;
+}

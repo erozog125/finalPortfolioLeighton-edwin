@@ -1,0 +1,45 @@
+.home{
+    position: static;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-image: url(../images/pareja-esposos.jpg);
+    display: flex;
+    align-items: center;
+    padding: 70px 8% 70px;
+
+}
+
+.home-content{
+    max-width: 600px;
+}
+
+.home-content h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.home-content h1{
+    font-size: 56px;
+    font-weight: 700;
+    margin: -3px 0;
+    
+} 
+
+.home-sci {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid #0ef;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #0ef;
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+}
+
